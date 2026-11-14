@@ -1,0 +1,18 @@
+{
+  "sources": {
+    "lab2_stress_tensor_RubtsovD.ipynb": "9a669337f7ba5a0a01f992a94c8ffc19b829afd35bb4fb5b305f371bcb4c523c",
+    "Лабораторная работа № 3.pdf": "884a89a1378ef215e7a358d196128b8240d4cd24873cf0cf187e3e667710d55e"
+  },
+  "versions": {
+    "python": "3.13.9",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3",
+    "matplotlib": "3.10.6",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2"
+  },
+  "variant": 12,
+  "method": "Finite-support differentiable order-based optimization; constrained mechanistic SCM",
+  "created_date": "2026-11-11"
+}
